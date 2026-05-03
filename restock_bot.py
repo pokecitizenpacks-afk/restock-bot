@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 
 import os
-TOKEN = os.getenv("MTUwMDMyNjE1MjA4MDg1NTE5MA.GkqukY.E1VGtMXyy-0Xim5lVPoMT_hVREHnSD-Nh94Uug")
+TOKEN = os.getenv("TOKEN")
 CHANNEL_ID = 1234567150033237545490841689
 CHECK_INTERVAL = 60
 
